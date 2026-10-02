@@ -16,6 +16,8 @@
 
 - Reproducing models and analyzing results from a previous cybersecurity data-driven research paper
 
+- Generating synthetic security-related with AI to create a dataset and perform various data analyses
+
 # Resources
 
 - Awesome Cybersecurity Datasets: https://github.com/shramos/Awesome-Cybersecurity-Datasets
