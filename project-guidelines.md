@@ -38,13 +38,13 @@ what is shown in lecture and the additional exercises (breakdown of 50 possible 
 
 1. Finalized Problem Statement [5 points]
 - Topic, relevance, and initial prediction
-2. Dataset [15 points]
+2. Dataset [10 points]
 - Is there an existing dataset? [5 points] 
     - If so, how is it useful for your problem? 
         - Can anything be removed? Why?
     - If not, how will you create one?
         - What did you add? Why?
-- Explain each “useful” component of your dataset (which/how do the column headers contribute to your problem?) [10 points]
+- Explain each “useful” component of your dataset (which/how do the column headers contribute to your problem?) [5 points]
 3. Analysis [15 points]
 - How can we analyze the data? [10 points]
     - Are you using a machine learning model?
@@ -59,6 +59,7 @@ what is shown in lecture and the additional exercises (breakdown of 50 possible 
     - Confusion matrix? Plots? Etc.
 - How can the visual help us address the problem? Does it reflect what you expected? [5 points]
     - Clear relationship shown? No relationship shown? Accurate predictions by the model? Etc.
-5. Insights [5 points]
+5. Insights [10 points]
 - What are three insights gained from the results? [3 points]
 - Did everything go as expected? Explain [2 points]
+- What AI prompts did you use? Explain those you found useful AND ones that did not help much + why [5 points]
